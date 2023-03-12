@@ -1,0 +1,10 @@
+Revert "2-add-111" 回到2-add版本
+
+This reverts commit ecb8deed73e8fbfbdc3a1aa1a09beedede3c38b.
+i
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   hello/2.txt
